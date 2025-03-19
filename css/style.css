@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(255, 243, 227);
+  font-size: 0.9rem;
+}
+
+li {
+  color: rgb(148, 122, 105);
+  font-family: "Kanit";
+}
+
+h1 {
+  color: rgb(255, 132, 167);
+  font-weight: 800;
+  font-style: italic;
+  font-size: 1.3rem;
+  font-family: "Marcellus";
+  text-transform: uppercase;
+  font-optical-sizing: auto;
+  font-weight: 100;
+}
+
+h2 {
+  color: rgb(150, 235, 150);
+  font-weight: 500;
+  font-family: "Poppins";
+  font-style: italic;
+}
+
+h3 {
+  color: rgb(150, 235, 150);
+  font-weight: 600;
+  font-family: "Poppins";
+}
+
+p {
+  color: rgb(148, 122, 105);
+  font-weight: 300;
+  font-family: "Kanit";
+}

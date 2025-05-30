@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(255, 243, 227);
+  background-color: rgb(255, 252, 249);
   font-size: 0.9rem;
 }
 
@@ -9,21 +9,19 @@ li {
 }
 
 h1 {
-  color: rgb(255, 132, 167);
-  font-weight: 800;
-  font-style: italic;
+  margin-top: 60px;
+  text-align: center;
+  color: rgb(250, 189, 148);
+  font-weight: 600;
   font-size: 1.3rem;
-  font-family: "Marcellus";
+  font-family: "Montserrat";
   text-transform: uppercase;
-  font-optical-sizing: auto;
-  font-weight: 100;
 }
 
 h2 {
   color: rgb(150, 235, 150);
   font-weight: 500;
   font-family: "Poppins";
-  font-style: italic;
 }
 
 h3 {

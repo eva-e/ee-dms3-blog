@@ -1,27 +1,29 @@
 body {
-  background-color: rgb(255, 252, 249);
+  background-color: rgb(255, 250, 243);
   font-size: 0.9rem;
 }
 
 li {
-  color: rgb(148, 122, 105);
+  color: rgb(238, 198, 172);
   font-family: "Kanit";
 }
 
 h1 {
-  margin-top: 60px;
+  margin-top: 70px;
   text-align: center;
-  color: rgb(250, 189, 148);
-  font-weight: 600;
-  font-size: 1.3rem;
-  font-family: "Montserrat";
-  text-transform: uppercase;
+  color: rgb(158, 119, 87);
+  font-weight: 800;
+  font-size: 1.7rem;
+  font-family: "Newsreader";
+  /* text-transform: uppercase; */
 }
 
 h2 {
-  color: rgb(150, 235, 150);
-  font-weight: 500;
-  font-family: "Poppins";
+  color: rgb(158, 119, 87);
+  font-weight: 600;
+  font-family: "Inter";
+  text-align: center;
+  margin-right: 70px;
 }
 
 h3 {

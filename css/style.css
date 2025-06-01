@@ -33,6 +33,32 @@ h2 {
   margin-top: 60px;
 }
 
+h3 {
+  color: rgb(153, 200, 160);
+  /* rgb(191, 221, 184) */
+  font-weight: 600;
+  font-size: 0.96rem;
+  font-family: "Raleway";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+}
+
+h4 {
+  color: rgb(153, 200, 160);
+  /* rgb(191, 221, 184) */
+  font-weight: 700;
+  font-size: 1.1rem;
+  font-family: "Raleway";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+}
+
 .img {
   margin-left: 50%;
   display: block;
@@ -49,19 +75,6 @@ img:hover {
   color: rgb(255, 255, 255);
   border-radius: 80px;
   transition: ease;
-}
-
-h3 {
-  color: rgb(153, 200, 160);
-  /* rgb(191, 221, 184) */
-  font-weight: 600;
-  font-size: 1.2;
-  font-family: "Raleway";
-  width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-  margin-top: 20px;
 }
 
 p {

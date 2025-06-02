@@ -72,6 +72,9 @@ h4 {
   text-align: left;
   margin-top: 30px;
 }
+section {
+  font-style: italic;
+}
 
 a {
   font-family: "Raleway";
@@ -85,7 +88,7 @@ a {
 }
 
 a:hover {
-  background-color: rgb(24, 111, 31);
+  background-color: rgb(98, 170, 104);
 }
 
 .img-arrow {

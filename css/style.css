@@ -8,11 +8,28 @@ li {
   font-family: "Kanit";
 }
 
+hr.solid {
+  height: 1px; /* thickness of the line */
+  background-color: rgba(93, 128, 85, 0.243);
+  border: none; /* no border */
+  margin-left: 26%;
+  width: 50%;
+}
+
+hr.solid2 {
+  height: 1px; /* thickness of the line */
+  background-color: rgba(93, 128, 85, 0.243);
+  border: none; /* no border */
+  margin-left: 26%;
+  width: 50%;
+  margin-top: 3%;
+}
+
 h1 {
   width: 600px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 80px;
+  padding-top: 5%;
   text-align: left;
   color: rgb(93, 128, 85);
   font-weight: 800;
@@ -32,6 +49,17 @@ h2 {
   text-align: left;
   margin-top: 60px;
 }
+/* create an id to customise one heading of h2 */
+#first-week {
+  color: rgb(119, 158, 110);
+  font-weight: 600;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Raleway";
+  text-align: left;
+  margin-top: 30px;
+}
 
 h3 {
   color: rgb(153, 200, 160);
@@ -47,7 +75,7 @@ h3 {
 }
 
 h4 {
-  color: rgb(153, 200, 160);
+  color: rgb(119, 158, 110);
   /* rgb(191, 221, 184) */
   font-weight: 700;
   font-size: 1.1rem;
@@ -56,7 +84,34 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
-  margin-top: 20px;
+}
+
+h5 {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: rgb(93, 128, 85);
+  font-weight: 800;
+  font-size: 1.9rem;
+  font-family: "Newsreader";
+}
+
+h6 {
+  color: rgb(119, 158, 110);
+  /* rgb(191, 221, 184) */
+  font-weight: 700;
+  font-size: 1.1rem;
+  font-family: "Raleway";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-bottom: 20px;
+  margin-top: 23px;
+  font-style: italic;
 }
 
 .img {
@@ -71,9 +126,6 @@ h4 {
   margin-right: auto;
   text-align: left;
   margin-top: 30px;
-}
-section {
-  font-style: italic;
 }
 
 a {

@@ -8,8 +8,15 @@ body {
 }
 
 li {
-  color: rgb(238, 198, 172);
+  color: rgb(148, 122, 105);
+  font-weight: 300;
   font-family: "Kanit";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 1.1rem;
 }
 
 hr.solid {
@@ -135,10 +142,10 @@ h6 {
   color: rgba(105, 91, 73, 0.901);
 }
 
-.img {
-  margin-left: 50%;
-  display: block;
-  margin: auto;
+img {
+  height: 300px;
+  width: 400px;
+  margin-left: 32%;
 }
 
 .blog-button {
@@ -184,15 +191,21 @@ a:hover {
   padding: 2px;
 }
 
-img:hover {
+/* img:hover {
   background-color: #437d4d5f;
   color: rgb(255, 255, 255);
   border-radius: 80px;
   transition: ease;
-}
+} */
 
 p {
   color: rgb(148, 122, 105);
   font-weight: 300;
   font-family: "Kanit";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 1.1rem;
 }

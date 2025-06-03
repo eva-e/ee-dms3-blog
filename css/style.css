@@ -118,6 +118,23 @@ h6 {
   font-style: italic;
 }
 
+.post-headings h1 {
+  color: rgba(105, 91, 73, 0.901);
+}
+
+.post-headings h4 {
+  margin-bottom: 5%;
+  color: rgba(105, 91, 73, 0.901);
+}
+
+.post-headings h5 {
+  color: rgba(105, 91, 73, 0.901);
+}
+
+.post-headings h6 {
+  color: rgba(105, 91, 73, 0.901);
+}
+
 .img {
   margin-left: 50%;
   display: block;
@@ -130,6 +147,21 @@ h6 {
   margin-right: auto;
   text-align: left;
   margin-top: 30px;
+}
+
+.back-button {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.back-button a {
+  background-color: rgba(110, 95, 76, 0.599);
+}
+.back-button a:hover {
+  background-color: rgba(110, 95, 76, 0.887);
 }
 
 a {

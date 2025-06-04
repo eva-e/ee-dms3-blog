@@ -225,6 +225,9 @@ p {
 button:hover {
   background-color: transparent;
 } */
+strong {
+  font-weight: bold;
+}
 
 .youtube {
   text-decoration: underline;

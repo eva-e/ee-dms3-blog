@@ -209,3 +209,31 @@ p {
   margin-top: 20px;
   font-size: 1.1rem;
 }
+
+/* button {
+  text-decoration: underline;
+  background-color: transparent;
+  color: black;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
+
+button:hover {
+  background-color: transparent;
+} */
+
+.youtube {
+  text-decoration: underline;
+  background-color: transparent;
+  color: black;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 1.1rem;
+}

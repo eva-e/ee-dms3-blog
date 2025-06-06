@@ -240,3 +240,15 @@ strong {
   margin-top: 20px;
   font-size: 1.1rem;
 }
+
+footer {
+  color: rgb(119, 158, 110);
+  font-weight: 600;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Raleway";
+  text-align: left;
+  margin-top: 60px;
+  }
+
